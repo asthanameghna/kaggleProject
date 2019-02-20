@@ -14,10 +14,15 @@ _Discussion_
 _To do for next week_
 
 1. Work Segmentation based on features
+
     a. Meghna ----> item_description
+    
     b. Marcus ----> name, category_name
+    
     c. Yiqing ----> brand_name
+    
     d. Qi     ----> item_condition_id, shipping
+    
     e. Sergio ----> Continue general Data Wrangling and find safety net
    
 __Next Meeting : 27/02/19 1:15 Polden Cafe__    
