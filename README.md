@@ -26,3 +26,24 @@ _To do for next week_
     e. Sergio ----> Continue general Data Wrangling and find safety net
    
 __Next Meeting : 27/02/19 1:15 Polden Cafe__    
+
+
+
+__Meeting 3 - 04/04/19__
+
+_To do for next week_
+
+Ready your features by next meeting.
+
+__Next Meeting : 09/04/19 11:00 Polden Cafe__
+
+
+
+
+
+
+Important Links:
+https://github.com/randylaosat/Price-Recommendation-Mercari-Challenge
+
+
+
